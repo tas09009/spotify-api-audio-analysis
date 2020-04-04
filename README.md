@@ -5,7 +5,9 @@ show_album-jupyter-edit: takes in a list of albums + album ID's (pulled from a s
 
 testingspotify: takes in song name from "show_album-jupyter-edit" to display song features.
 
-Ex: {'0ExiKxfY5rHBW06TcV1xXU': {'acousticness': 0.0703,
+EXAMPLE: 
+
+{'0ExiKxfY5rHBW06TcV1xXU': {'acousticness': 0.0703,
                                 'analysis_url': 'https://api.spotify.com/v1/audio-analysis/0ExiKxfY5rHBW06TcV1xXU',
                                 'danceability': 0.658,
                                 'duration_ms': 185587,
