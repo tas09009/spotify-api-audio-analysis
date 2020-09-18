@@ -1,0 +1,34 @@
+album_id = {
+
+"Led Zeppelin": 1J8QW9qsMLx3staWaHpQmU
+"Led Zeppelin II": 58MQ0PLijVHePUonQlK76Y
+"Led Zeppelin III": 6P5QHz4XtxOmS5EuiGIPut
+"Led Zeppelin IV": 5EyIDBAqhnlkAHqvPRwdbX
+"Houses of the Holy": 0GqpoHJREPp0iuXK3HzrHk
+"Physical Graffiti": 1lZahjeu4AhPkg9JARZr5F
+"Presence": 3uhD8hNpb0m3iIZ18RHH5u
+"In Through the Out Door": 1W5CtQ7Ng0kP3lXyz7PIT2
+"Coda": 228mANuRrV20jS5DCA0eER
+
+}
+
+
+
+desired_features = [ (12)
+        'tempo', //
+        'time_signature', --
+        'key', --
+        'mode', --
+        'loudness',//
+        'energy',//
+        'danceability',//
+        'acousticness',//
+        'instrumentalness',//
+        'liveness',//
+        'speechiness',//
+        'valence'//
+    ]
+
+
+popularity? 
+https://medium.com/@RareLoot/extracting-spotify-data-on-your-favourite-artist-via-python-d58bc92a4330
