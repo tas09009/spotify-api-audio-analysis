@@ -1,5 +1,6 @@
-# Led-Zeppelin-Spotify-features-IN PROGRESS
-Pull + analyze Led Zeppelin's music from Spotify's API
+# spotify-api-audio-analysis
+- Pull + analyze Led Zeppelin's music from Spotify's API
+- Create a mashup of two songs with similar tempo
 
 **show_album-jupyter-edit**: takes in a list of albums + album ID's (pulled from a sparate code) and spits out each song from the album + its song ID
 
@@ -8,7 +9,7 @@ Pull + analyze Led Zeppelin's music from Spotify's API
 EXAMPLE: 
 ```
 {'0ExiKxfY5rHBW06TcV1xXU':  
-{'acousticness': 0.0703,
+	{'acousticness': 0.0703,
    'analysis_url': 'https://api.spotify.com/v1/audio-analysis/0ExiKxfY5rHBW06TcV1xXU',
    'danceability': 0.658,
    'duration_ms': 185587,
